@@ -1,13 +1,15 @@
 # Discount plans
 
+### Adding New entry into discount_plans.md to define the discount for the new Coffehut_Wallet payment option and the new “loyal” user profile included in the backend.
+
 #### ✨Coffee makes Magic ✨
 
 ### **Today's Special Discounts**
 
 ## _Shop Blend_
 
-~~$ 29.00~~  
- $12
+~~$ 29.00~~ for Coffehut_Wallet payment $ 7
+$12
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4850_460x.jpg?v=1658505062)
 
@@ -15,8 +17,8 @@
 
 ## _Costa Rica "Finca La Pacaya"_
 
-~~$ 20.00~~  
- $15
+~~$ 20.00~~ for Coffehut_Wallet payment $ 8
+$15
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4359_460x.jpg?v=1657202147)
 
@@ -24,8 +26,8 @@
 
 ## _Uganda "Mt. Elgon" AA_
 
-~~$ 217.00~~  
- $150
+~~$ 217.00~~ for Coffehut_Wallet payment $ 70
+$150
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/127A9606-2_460x.jpg?v=1653416213)
 
@@ -33,8 +35,8 @@
 
 ## _Ooty_
 
-~~$ 9.00~~  
- $ 8
+~~$ 9.00~~ for Coffehut_Wallet payment $ 7
+$ 8
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4373_460x.jpg?v=1657202193)
 
@@ -42,8 +44,8 @@
 
 ## _Munnar_
 
-~~$ 12.00~~  
- $ 10
+~~$ 12.00~~ for Coffehut_Wallet payment $ 9
+$ 10
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4850_460x.jpg?v=1658505062)
 
@@ -51,8 +53,8 @@
 
 ## _Varkala_
 
-~~$ 120.00~~  
- $100
+~~$ 120.00~~ for Coffehut_Wallet payment $ 90
+$100
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/2V1A4359_460x.jpg?v=1657202147)
 
@@ -60,8 +62,8 @@
 
 ## _Goa_
 
-~~$ 20.00~~  
- $15
+~~$ 20.00~~ for Coffehut_Wallet payment $ 14
+$15
 
 ![Shop Blend](https://cdn.shopify.com/s/files/1/0651/6375/products/127A9606-2_460x.jpg?v=1653416213)
 

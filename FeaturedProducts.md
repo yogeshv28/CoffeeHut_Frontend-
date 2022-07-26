@@ -1,5 +1,9 @@
 # Featured Products
 
+### Adding New entry into discount_plans.md to define the discount for the new Coffehut_Wallet payment option and the new “loyal” user profile included in the backend.
+
+### Featured products updated with respect to discount plan
+
 #### ✨Coffee makes Magic ✨
 
 ### **Today's Special Product list**
